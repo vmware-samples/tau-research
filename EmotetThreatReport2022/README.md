@@ -38,7 +38,6 @@ where:
 ## File: ioc_payload_updates.csv
 This file contains the payload updates delivered from C2 servers, e.g.:
 ```
-SMBSpreader,5,202.29.239.162,443,2022-06-25 07:12:21,2022-06-13 05:49:13,53248,64,D4A6272F,DESKTOP-8791879,905e719d413a744d5bc8233eb60968b9b6edb662,97123e4d5c7326dbfdd08d4c91b8d8454d1becce
 "Type": SMBSpreader
 "Epoch": 5
 "IP": 202.29.239.162
@@ -52,6 +51,8 @@ SMBSpreader,5,202.29.239.162,443,2022-06-25 07:12:21,2022-06-13 05:49:13,53248,6
 "File SHA1": 9905e719d413a744d5bc8233eb60968b9b6edb662
 "Conceptual SHA1": 997123e4d5c7326dbfdd08d4c91b8d8454d1becce
 ```
+where:
+* _Conceptual SHA1_ - the SHA1 of the common payload component used by various payloads.
 
 ## Contact
 Should you have any questions on the data, please contact [the VMware NSX TAU](mailto:threat-intelligence-team@groups.vmware.com?subject=[GitHub]Emotet%20C2%20Configuration%20Extraction%20and%20Analysis:%20Dataset%20IoCs)
