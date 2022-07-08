@@ -42,12 +42,7 @@ This file contains the payload updates delivered from C2 servers, e.g.:
 "Epoch": 5
 "IP": 202.29.239.162
 "Port": 443
-"Download date": 2022-06-25 07:12:21
-"Compiler stamp": 2022-06-13 05:49:13
-"File size": 53248
-"Bitness": 64
-"Root Volume Serial": D4A6272F
-"Computer name": DESKTOP-88791879
+"Download timestamp": 2022-06-25 07:12:21
 "File SHA1": 9905e719d413a744d5bc8233eb60968b9b6edb662
 "Conceptual SHA1": 997123e4d5c7326dbfdd08d4c91b8d8454d1becce
 ```
