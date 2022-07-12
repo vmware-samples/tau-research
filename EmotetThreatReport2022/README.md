@@ -47,7 +47,8 @@ This file contains the payload updates delivered from C2 servers, e.g.:
 "Conceptual SHA1": 997123e4d5c7326dbfdd08d4c91b8d8454d1becce
 ```
 where:
-* _Conceptual SHA1_ - the hash of the payload once the _.rdata_ section is removed from the hash computation. The conceptual payload is **not** available on VirusTotal, but one can reproduce it from the original payload (see the report for instructions how to do it).
+* _Conceptual SHA1_ - the hash of the payload once the _.rdata_ section is removed from the hash computation. Conceptual hashes are **not** indexed by VirusTotal, but they are useful, e.g., clustering payloads. One can compute it from the original payload following the instructions outlined in the report.
+
 
 ## Contact
 Should you have any questions on the data, please contact [the VMware NSX TAU](mailto:threat-intelligence-team@groups.vmware.com?subject=[GitHub]Emotet%20C2%20Configuration%20Extraction%20and%20Analysis:%20Dataset%20IoCs)
