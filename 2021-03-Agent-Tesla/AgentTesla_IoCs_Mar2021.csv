@@ -1,0 +1,23 @@
+﻿IoC,Data,Note
+report,Don’t Be Fooled by Agent Tesla’s Football Club Red Herring,https://blogs.vmware.com/networkvirtualization/2021/06/dont-be-fooled-by-agent-teslas-football-club-red-herring.html/
+sha1,54288257bddf1179170639d2d3e9fa3455f7fd31,Archive containing Agent Tesla stage 1 downloader
+sha1,1c1bf5e8f504f782bbf09a874d8374a2315bfeda,Archive containing Agent Tesla stage 1 downloader
+sha1,53ee8f723ee2d5ee9c668faee39ae106b7cd9583,Archive containing Agent Tesla stage 1 downloader
+sha1,991ca9a907ce41136754690201f9d72cf4e5f42e,Archive containing Agent Tesla stage 1 downloader
+sha1,706427182ddfca0732506f7658c2abc462aff6fa,Agent Tesla stage 1 downloader
+sha1,c26ad392bf41640fbbd79d683ff8da5b23498bee,Agent Tesla stage 1 downloader
+sha1,c344b8b4b6523348a783c5c0630a47dce510f950,Agent Tesla stage 1 downloader
+sha1,e10acf4696e12ce43af551e663b34d893a7452ce,Agent Tesla stage 1 downloader
+sha1,88d2bc7c7bf6bbf3b8e1a5d9f15b6184346438f4,Agent Tesla stage 1 downloader
+sha1,d381b7a76aeecfd6af29730cf0605d4b3af14b95,Agent Tesla stage 1 downloader
+sha1,2c9f7aec51a93bb7f9c3742768a279deb782e16e,Agent Tesla stage 1 downloader
+sha1,d93be3bbcaef76790010103a90aeb2c8f2f021cc,Agent Tesla stage 1 downloader
+sha1,c532868309689f03ec1c529c2467453221b086c4,Agent Tesla stage 1 downloader
+sha1,97a55174c31b9b731a2f71d9823dc5e6279bfec7,Agent Tesla stage 1 downloader
+sha1,c532868309689f03ec1c529c2467453221b086c4,Agent Tesla stage 1 downloader
+sha1,0e0ef025724f10792e48388b298a44c31da5214d,Agent Tesla loader (downloaded by stage 1 downloader)
+sha1,22dee9535d18e1e4887bb8c6547f19ddc5c51ee8,Agent Tesla payload
+domain,osndjdjjjdjshgaggdkf[.]com,C2 host
+domain,0k10dk21kkeok2e[.]online,C2 host
+url,http://osndjdjjjdjshgaggdkf[.]com/base/94A0A1D9C118D2C034654303F65BE91C.html,stage 1 downloader link on C2 host
+url,http://0k10dk21kkeok2e[.]online/base/41BAF80DA1E558A175925DC240C14978.html,stage 1 downloader link on C2 host

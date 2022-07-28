@@ -1,0 +1,36 @@
+﻿IoC,Data,Note
+report,Emotet Is Not Dead (Yet) - Part 2,https://blogs.vmware.com/networkvirtualization/2022/02/emotet-is-not-dead-yet-part-2.html/
+IP,185.7.214[.]7,C2 server - Cluster B
+IP,131.100.24[.]231,C2 server - Cluster B
+IP,185.168.130[.]138,C2 server - Cluster C
+sha256,db2524a38755745b796339f2a7fb4e42dba8341984ce35ea715923742a725315,XLS document - Cluster B
+sha256,63d5a4febc0df7e1167b28fd510fad226b060b67b027000010b11413a234084a,XLS document - Cluster C
+sha256,c681e3bc032bdcc6923b7d17c1f7ba0fecc80826d9b9f11ebf512183c977b72f,HTA payload - Cluster B
+sha256,2166c66f90ef87f21dc4f2b48f2b47ec3b401caca1ad068c2093fff713ef73bc,PowerShell payload (second stage) - Cluster B
+sha256,63996a39755e84ee8b5d3f47296991362a17afaaccf2ac43207a424a366f4cc9,Emotet DLL payload - Cluster B
+sha256,763706fce04801df0720ca67b0905876ddf4f3fc1aedbbd1d032e96b227a6e51,Batch script - Cluster C
+sha256,816fc7309c0f6b92e90d594adeb2750b495cd21f39ac3b4a37e7efa2baa73a59,Emotet DLL payload - Cluster C
+url,hxx://0xb907d607/cc.html,HTA payload download URL
+url,hxxp://185.7.214[.]7/PP91.PNG,PowerShell payload download URL (second stage) - Cluster B
+url,hxxp://mecaglobal.com/qxim/TlDTjlxYAdwU/,Emotet DLL payload URL - Cluster B
+url,hxxp://2021.posadamision[.]com/wp-admin/gO7Qvfd1/,Emotet DLL payload URL - Cluster B
+url,hxxp://mymicrogreen.mightcode[.]com/pub/WwQe6kKVIsa/,Emotet DLL payload URL - Cluster B
+url,hxxp://mawroyalmedia.com[.]ng/l1o2x/mAgab05/,Emotet DLL payload URL - Cluster B
+url,hxxp://pokawork.com[.]ng/-/uLYqpe6E8FH2DkM/,Emotet DLL payload URL - Cluster B
+url,hxxp://ariesnetwork.co[.]uk/cgi-bin/QO5VMUFERLpCd/,Emotet DLL payload URL - Cluster B
+url,hxxp://clatmagazine[.]com/p8wl/714/,Emotet DLL payload URL - Cluster B
+url,hxxps://animalkingdompro[.]com/wp-includes/TjXLWDUyhJuvIsPR/,Emotet DLL payload URL - Cluster B
+url,hxxp://bitcoin-up.fomentomunivina[.]cl/assets/w82JxkF70pHiMXtSm/,Emotet DLL payload URL - Cluster B
+url,hxxps://cr.almalunatural[0.]com/b/GbQllyWCCy4bJWG2PW/,Emotet DLL payload URL - Cluster B
+url,hxxp://althyplane[.]com/wp-admin/ELWa8YcOqlJn/,Emotet DLL payload URL - Cluster C
+url,hxxp://dreamdancefactory.clnetworktv[.]com/zegsgpzq/CT75/,Emotet DLL payload URL - Cluster C
+url,hxxp://ajkersomaj[.]com/wp-admin/ThBwKpUbIffmrepRg/,Emotet DLL payload URL - Cluster C
+url,hxxp://1asehrgut[.]com/dup-installer/3vESrkJAS97l/,Emotet DLL payload URL - Cluster C
+url,hxxp://dreamcityloveaffair[.]com/60bv5/RG9Kb1qRlQ/,Emotet DLL payload URL - Cluster C
+url,hxxp://dreamproductionsfl[.]com/tmw8t/Szjjcj5mU1ZA/,Emotet DLL payload URL - Cluster C
+url,hxxp://dreamcityimprov[.]com/d5759pd/yzbV45v1nY/,Emotet DLL payload URL - Cluster C
+url,hxxp://delmarpropertyservices[.]com/nw1t8jj/NUrSuFyX6P/,Emotet DLL payload URL - Cluster C
+url,hxxp://batumi4u[.]com/nwj7iw/jgiK2uwhsu/,Emotet DLL payload URL - Cluster C
+url,hxxp://blasieholmen-staging.tokig[.]site/b/SOcGvzIi31HDg/,Emotet DLL payload URL - Cluster C
+url,hxxp://climate.thecedarcentre[.]org/cgi-bin/3eseeNZ/,Emotet DLL payload URL - Cluster C
+url,hxxp://changeyourcommunitynow[.]com/s1hf7qm/TqcrwYcOiqV8fWA/,Emotet DLL payload URL - Cluster C

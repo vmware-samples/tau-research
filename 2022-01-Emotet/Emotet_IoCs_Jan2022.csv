@@ -1,0 +1,24 @@
+﻿IoC,Data,Note
+report,Emotet Is Not Dead (Yet),https://blogs.vmware.com/networkvirtualization/2022/01/emotet-is-not-dead-yet.html/
+IP,51.38.71[.]0,C2 server
+IP,131.100.24[.]231,C2 server
+sha256,6bbe67b5f91f49ff1cce69808d819d7a6f44672bc88d38f1abbf1c2fe582d3b4,XLS document
+sha256,51f016277428080390343a5eb97dd40ffba5eb44df145b1c7ad507583d8386e8,XLS document
+sha256,a672f734a98a5b287eb96d134893701f055f20573dd9f9d778b1e7953b00a944,XLS document
+sha256,fee63d184b4f72c5fdc678d786214be5361b7f6a2daa4be6d6947cc99b6ea9dd,XLS document
+sha256,2c345d5a9fe1c3d151e579a5bf2a183316a26eb89542ceeda21b9bfe932e1e3b,Emotet DLL payload
+sha256,1906e3e5508c0f1e2a4317c2f0f22b0f23b2e87abba03c193483ebe3481b52b2,Emotet DLl payload
+sha256,36713767a7efed6d60f2d5ee75856dd0f09dc4a182efd971c265cfee91d27546,Emotet DLL payload
+sha256,4953b20122863242d2bf22eb954a6b2dac445275dfcb7b91aee939035f3f0ea4,Emotet DLL payload
+url,hxxp://gaidov.bg/wp-includes/Ug/,Emotet DLL payload download URL
+url,hxxp://goodmarketinggroup.com/live_site/Y9cEk9QNlDUeg/,Emotet DLL payload download URL
+url,hxxp://k-antiques.jp/wp-includes/SCYdA6TLohYk2/,Emotet DLL payload download URL
+url,hxxp://old.liceum9.ru/images/0/,Emotet DLL payload download URL
+url,hxxp://ordinateur.ogivart.us/editor/Qpo7OAOnbe/,Emotet DLL payload download URL
+url,hxxp://ostadsarma.com/wp-admin/pYk64Hh3z5hjnMziZ/,Emotet DLL payload download URL
+url,hxxp://shopnhap.com/highbinder/nnYko9FDNJ/,Emotet DLL payload download URL
+url,hxxp://studiokrishnaproduction.com/wp-includes/3mJ/,Emotet DLL payload download URL
+url,hxxp://towardsun.net/admin/BYGGkrYAnT/,Emotet DLL payload download URL
+url,hxxp://txingame.com/wp-content/PwKfVQfdhHbAv2j/,Emotet DLL payload download URL
+url,hxxp://www.cuneytkocas.com/wp-content/VSnofpES1wO2CcVob/,Emotet DLL payload download URL
+url,hxxps://wordpressdes.vanzolini-gte.org.br/fundacaotelefonica.org.br/gAbC4QpJYI/,Emotet DLL payload download URL
