@@ -1,4 +1,4 @@
-# VMware Emotet Threat Report 2022: Dataset IoCs
+# 2022 VMware Emotet Threat Report: Dataset IoCs
 
 This distribution package contains some key IoCs of dataset samples used in the Report "Emotet Resurrection".
 
