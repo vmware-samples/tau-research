@@ -1,7 +1,3 @@
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/vmware-labs/telemetry-peak-analyzer)
-![GitHub](https://img.shields.io/pypi/l/telemetry-peak-analyzer)
-![GitHub issues](https://img.shields.io/github/issues/vmware-labs/telemetry-peak-analyzer)
-
 # tau-research
 
 ## Overview
